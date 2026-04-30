@@ -44,3 +44,11 @@ TechMart_Excel_Project/
 ├── orders.csv
 ├── products.csv
 └── sales_reps.csv
+
+
+## How to Use
+1. Open the .xlsx file in Excel 365
+2. Go to the Dashboard sheet
+3. Use slicers on the right to filter by 
+   Region / Year / Status / Channel
+4. All KPI cards and charts update automatically
