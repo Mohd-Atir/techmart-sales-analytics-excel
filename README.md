@@ -36,3 +36,11 @@ executive dashboard.
 - Full KPI engine (93 metrics)
 
 ## Project Structure
+TechMart_Excel_Project/
+├── TechMart_Sales_Analytics_Dashboard.xlsx
+├── README.md
+└── data/
+├── customers.csv
+├── orders.csv
+├── products.csv
+└── sales_reps.csv
