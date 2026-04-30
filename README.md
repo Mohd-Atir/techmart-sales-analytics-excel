@@ -6,6 +6,8 @@ e-commerce dataset (TechMart). Demonstrates the full
 Data Analyst workflow from raw CSV ingestion to 
 executive dashboard.
 
+![Dashboard](dashboard_preview.png)
+
 ## Tools Used
 - Microsoft Excel 365
 - Power Query (ETL & data modelling)
@@ -52,3 +54,26 @@ TechMart_Excel_Project/
 3. Use slicers on the right to filter by 
    Region / Year / Status / Channel
 4. All KPI cards and charts update automatically
+
+
+# 👨‍💻 Author
+
+**Mohd Atir**
+
+Aspiring Data Analyst
+
+💡 Skills: Python | SQL | Excel | Power BI | Data Visualization | Business Analytics
+
+## 🤝 Connect With Me
+
+If you found this project interesting or would like to discuss data analytics opportunities, feel free to connect.
+
+🔗 **LinkedIn**  
+[Connect With Me](https://www.linkedin.com/in/mohd-atir/)
+
+📧 **Email**  
+mohdatir788@gmail.com
+
+---
+
+⭐ If you found this project helpful, feel free to **star the repository**.
